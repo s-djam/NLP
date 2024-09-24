@@ -1,6 +1,6 @@
 # NLP
 
-This aims to get started with natural Language Processing (NLP) by performing sentiment analysis on Michael Jackson's discography from his album "Off the wall" (1979) to "Invicible" (2001), so there's 80 songs in total.  Lyrics have been collected through the Genius website. Here we're working with 8 datasets : 1 dataset with the lyrics from all albums, 7 other datasets specific to each album.
+This aims to get started with Natural Language Processing (NLP) by performing sentiment analysis on Michael Jackson's discography from his album "Off the wall" (1979) to "Invicible" (2001), so there's 80 songs in total.  Lyrics have been collected through the Genius website. Here we're working with 8 datasets : 1 dataset with the lyrics from all albums, 7 other datasets specific to each album.
 
 Goals : 
 - To extract significant insights from song lyrics and to get impactful vizualisations.
